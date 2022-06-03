@@ -1,0 +1,10 @@
+c:\users\hdmi\documents\visual studio 2010\Projects\PriorityQueue\PriorityQueue\bin\Debug\PriorityQueue.exe
+c:\users\hdmi\documents\visual studio 2010\Projects\PriorityQueue\PriorityQueue\bin\Debug\PriorityQueue.pdb
+c:\users\hdmi\documents\visual studio 2010\Projects\PriorityQueue\PriorityQueue\obj\x86\Debug\PriorityQueue.exe
+c:\users\hdmi\documents\visual studio 2010\Projects\PriorityQueue\PriorityQueue\obj\x86\Debug\PriorityQueue.pdb
+C:\Users\HDMI\documents\visual studio 2010\Projects\PriorityQueue\PriorityQueue\obj\x86\Debug\PriorityQueue.csprojResolveAssemblyReference.cache
+C:\good8\PriorityQueue\PriorityQueue\obj\x86\Debug\PriorityQueue.exe
+C:\good8\PriorityQueue\PriorityQueue\obj\x86\Debug\PriorityQueue.pdb
+C:\good8\PriorityQueue\PriorityQueue\bin\Debug\PriorityQueue.exe
+C:\good8\PriorityQueue\PriorityQueue\bin\Debug\PriorityQueue.pdb
+C:\good8\PriorityQueue\PriorityQueue\obj\x86\Debug\PriorityQueue.csprojResolveAssemblyReference.cache

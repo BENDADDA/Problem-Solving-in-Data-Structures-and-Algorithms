@@ -1,0 +1,4 @@
+C:\Users\HDMI\Documents\Visual Studio 2010\Projects\BinaryTree\BinaryTree\bin\Release\BinaryTree.exe
+C:\Users\HDMI\Documents\Visual Studio 2010\Projects\BinaryTree\BinaryTree\bin\Release\BinaryTree.pdb
+C:\Users\HDMI\Documents\Visual Studio 2010\Projects\BinaryTree\BinaryTree\obj\x86\Release\BinaryTree.exe
+C:\Users\HDMI\Documents\Visual Studio 2010\Projects\BinaryTree\BinaryTree\obj\x86\Release\BinaryTree.pdb

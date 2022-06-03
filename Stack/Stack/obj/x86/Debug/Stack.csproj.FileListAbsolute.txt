@@ -1,0 +1,10 @@
+c:\users\hd\documents\visual studio 2010\Projects\Stack\Stack\bin\Debug\Stack.exe
+c:\users\hd\documents\visual studio 2010\Projects\Stack\Stack\bin\Debug\Stack.pdb
+c:\users\hd\documents\visual studio 2010\Projects\Stack\Stack\obj\x86\Debug\Stack.exe
+c:\users\hd\documents\visual studio 2010\Projects\Stack\Stack\obj\x86\Debug\Stack.pdb
+C:\Users\hd\documents\visual studio 2010\Projects\Stack\Stack\obj\x86\Debug\Stack.csprojResolveAssemblyReference.cache
+C:\Users\HDMI\Documents\Visual Studio 2010\Projects\Stack\Stack\obj\x86\Debug\Stack.exe
+C:\Users\HDMI\Documents\Visual Studio 2010\Projects\Stack\Stack\obj\x86\Debug\Stack.pdb
+C:\Users\HDMI\Documents\Visual Studio 2010\Projects\Stack\Stack\bin\Debug\Stack.exe
+C:\Users\HDMI\Documents\Visual Studio 2010\Projects\Stack\Stack\bin\Debug\Stack.pdb
+C:\Users\HDMI\Documents\Visual Studio 2010\Projects\Stack\Stack\obj\x86\Debug\Stack.csprojResolveAssemblyReference.cache

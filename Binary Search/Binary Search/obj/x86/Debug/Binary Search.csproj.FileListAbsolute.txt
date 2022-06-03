@@ -1,0 +1,7 @@
+c:\users\hdmi\documents\visual studio 2010\Projects\Binary Search\Binary Search\bin\Debug\Binary Search.exe
+c:\users\hdmi\documents\visual studio 2010\Projects\Binary Search\Binary Search\bin\Debug\Binary Search.pdb
+c:\users\hdmi\documents\visual studio 2010\Projects\Binary Search\Binary Search\obj\x86\Debug\Binary Search.exe
+c:\users\hdmi\documents\visual studio 2010\Projects\Binary Search\Binary Search\obj\x86\Debug\Binary Search.pdb
+C:\Users\HDMI\documents\visual studio 2010\Projects\Binary Search\Binary Search\obj\x86\Debug\Binary Search.csprojResolveAssemblyReference.cache
+F:\Archift\Projects\Binary Search\Binary Search\obj\x86\Debug\Binary Search.exe
+F:\Archift\Projects\Binary Search\Binary Search\obj\x86\Debug\Binary Search.pdb

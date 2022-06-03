@@ -1,0 +1,7 @@
+c:\users\hdmi\documents\visual studio 2010\Projects\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe
+c:\users\hdmi\documents\visual studio 2010\Projects\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+c:\users\hdmi\documents\visual studio 2010\Projects\BinaryTree\BinaryTree\obj\x86\Debug\BinaryTree.exe
+c:\users\hdmi\documents\visual studio 2010\Projects\BinaryTree\BinaryTree\obj\x86\Debug\BinaryTree.pdb
+C:\Users\HDMI\documents\visual studio 2010\Projects\BinaryTree\BinaryTree\obj\x86\Debug\BinaryTree.csprojResolveAssemblyReference.cache
+F:\Archift\Projects\BinaryTree\BinaryTree\obj\x86\Debug\BinaryTree.exe
+F:\Archift\Projects\BinaryTree\BinaryTree\obj\x86\Debug\BinaryTree.pdb

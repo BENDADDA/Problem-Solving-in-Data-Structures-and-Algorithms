@@ -1,0 +1,8 @@
+c:\users\hd\documents\visual studio 2010\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+c:\users\hd\documents\visual studio 2010\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+c:\users\hd\documents\visual studio 2010\Projects\ConsoleApplication3\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.exe
+c:\users\hd\documents\visual studio 2010\Projects\ConsoleApplication3\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.pdb
+C:\Users\hd\Documents\Visual Studio 2010\Projects\cmd\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.exe
+C:\Users\hd\Documents\Visual Studio 2010\Projects\cmd\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.pdb
+C:\Users\hd\Documents\Visual Studio 2010\Projects\cmd\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\hd\Documents\Visual Studio 2010\Projects\cmd\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
